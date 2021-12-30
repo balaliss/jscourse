@@ -1,11 +1,5 @@
-/* Data Types:
-undefined, null, boolean, string, symbol, number, and object
-*/
+var a = 5;
+var b = 10;
+var c = "I am a";
 
-var myName = "Stove"
-
-myName = 88
-
-let ourName = "freeCodeRamp"
-
-const pi = 3.14
+a = a +1;
